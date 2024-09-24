@@ -1,3 +1,4 @@
+// Subset = A subset of an array is a new array that contains some or all of the elements from the original array.
 //CHECKING WHETHER THE A ARRAY IS SUBSET OF ANOTHER ARRAY
 
 public class Subset {
